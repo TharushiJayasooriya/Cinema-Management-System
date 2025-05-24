@@ -1,4 +1,4 @@
-# Cinema-Management-System
+
 # 🎬 Cinema Management System
 
 A console-based Cinema Management System built using Core Java. The application allows users to buy and cancel tickets, view the seating layout, search for tickets, and sort tickets by price using the bubble sort algorithm. It simulates the functionality of a real-world cinema booking system, similar to an airline seat management system.
